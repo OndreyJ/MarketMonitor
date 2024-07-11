@@ -1,2 +1,2 @@
 # MarketMonitor
-Work in progress price tracker of items.
+Work in progress stock tracker
