@@ -24,6 +24,7 @@ const Graph = ({ processedData, loading, setLoading, noSymbolAlert, setNoSymbolA
             setPrice(price);
             setLoading(false);
             setNoSymbolAlert(false);
+            setActiveButton('3');
         }
     }, [processedData])
 
